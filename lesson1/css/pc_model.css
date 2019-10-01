@@ -1,0 +1,21 @@
+body{
+
+    margin:auto;
+    width:70%;
+}
+.link1{
+
+    display:block;
+    margin:auto;
+    text-align: center;
+    width:80%;
+}
+.link1 img{
+
+    width:80%;
+}
+
+.titleBar{
+    float:left;
+    margin: 20px;
+}
