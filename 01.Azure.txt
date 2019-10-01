@@ -1,0 +1,13 @@
+檔案狀態
+01.	未追蹤
+
+Unmodified 未修改
+Modified 已變動
+staged 暫存
+
+git clone 別人的gitHub網址
+
+插件
+	Live Server 模擬伺服器
+	Live Sass Compiler
+	gitLens 觀看git紀錄
